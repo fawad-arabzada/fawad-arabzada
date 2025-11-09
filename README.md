@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 7th Semester **Computer Science** student, specialized in **Data Science**
+- 🎓 Final Year **Computer Science** student, specialized in **Data Science**
 - 📊 Passionate about **analytics**, **machine learning**, and turning raw data into actionable insights
 - 🌱 Currently exploring:
   - Python for data science
