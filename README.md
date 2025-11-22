@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Fawad Arabzada</h1>
-<h3 align="center">🚀 Data Science Enthusiast | 💻  ML  | 📊 Problem Solver</h3>
+<h3 align="center">🚀 Data Science Enthusiast | 💻  ML  | 📊 Data analytics </h3>
 
 ---
 
